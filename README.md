@@ -32,6 +32,6 @@
 
 - 🌐 [Web personal](https://mariogarcia.es.ht)  
 - 📧 [garciachavesmario@gmail.com](mailto:garciachavesmario@gmail.com)  
-- 💼 [LinkedIn]([https://linkedin.com/in/mariogarciachaves](https://www.linkedin.com/in/mario-garcia-chaves-b6772096/)) (si tienes, añade el enlace)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mario-garcia-chaves-b6772096)
 
 ---
