@@ -1,4 +1,4 @@
-# Bienvenido a m
+# Bienvenido a mi portal:
 
 🎓 Estudiante de **ASIR** con especialización en **Ciberseguridad** (Blue Team).  
 🔧 Apasionado por la defensa de infraestructuras, la automatización y las herramientas open source.  
