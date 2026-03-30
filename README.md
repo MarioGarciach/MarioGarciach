@@ -30,8 +30,7 @@
 
 ## 📫 ¿Cómo contactarme?
 
-- 🌐 [Web personal](https://mariogarcia.es.ht)  
-- 📧 [garciachavesmario@gmail.com](mailto:garciachavesmario@gmail.com)  
+- 🌐 [Web personal](https://mariogarcia.es.ht) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mario-garcia-chaves-b6772096)
 
 ---
